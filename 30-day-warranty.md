@@ -24,7 +24,7 @@ A team develops a component which is used throughout an organization.  This team
   of loyalty can complicate resolution of this problem.
 - There is a natural aversion to taking responsibility for code not written
   by oneself.
-- Contributed needs to be heavily rewritten before being accepted into the
+- Contributed code needs to be heavily rewritten before being accepted into the
   codebase.
 - There is the fear of the contributors not being available for support with
   fixing bugs after the time on contribution.
